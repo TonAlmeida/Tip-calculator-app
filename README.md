@@ -4,17 +4,19 @@
 
   
 
-<p  align="center">
+<span align="center">
 
 <a  href="#features">Features</a> •
 
-<a  href="#tecnologias">Deploy</a> •
+<a  href="#deploy">Deploy</a> •
 
-<a  href="#contribuicao">Prerequisites</a> •
+<a  href="#prerequisites">Prerequisites</a> •
 
-<a  href="#d">Autor</a>
+<a  href="#technologies">Technologies</a> •
 
-</p>
+<a  href="#author">Autor</a>
+
+</span>
 
   
 
@@ -45,7 +47,7 @@
 
 
 
-<div  align="center">
+<div id="deploy"  align="center">
 
 <img
 
@@ -61,13 +63,13 @@ src="./assets/arquivo.ext"
 
 </div>
 
-### 🎲 prerequisites
+<h3 id="prerequisites" > 🎲 prerequisites </h3>
 
 There is no prerequisites
 
   <br><br><br>
 
-### 🛠 Technologies
+<h3 id="technologies">🛠 Technologies<h3>
 
 -JavaScript
 
@@ -76,8 +78,7 @@ There is no prerequisites
 -HTML
 
   <br><br><br>
-
-### 👨🏻‍💻 Author
+<h3 id="author">👨🏻‍💻 Author<h3>
 
 <h1  align="center">
 

@@ -1,18 +1,18 @@
-# Frontend Mentor | Tip calculator app
+<h1 align="center"> Frontend Mentor | Tip calculator app<h1>
 
-## this is a simple divider that includes a tip for restaurant bills and the like.
+<h2 aligh="center">this is a simple divider that includes a tip for restaurant bills and the like.<h2>
 
   
 
 <span align="center">
 
-<a  href="#features">Features</a> •
+<a  href="#features">Features</a>
 
-<a  href="#deploy">Deploy</a> •
+<a  href="#deploy">Deploy</a>
 
-<a  href="#prerequisites">Prerequisites</a> •
+<a  href="#prerequisites">Prerequisites</a>
 
-<a  href="#technologies">Technologies</a> •
+<a  href="#technologies">Technologies</a>
 
 <a  href="#author">Autor</a>
 

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+  <link rel="stylesheet" href="./css/mycss.css">
+
+  <title>Frontend Mentor | Tip calculator app</title>
+
+  <script defer src="./js/myjs.js"></script>
+
+</head>
+
+<body>
+  <section class="flex">
+    <h1 class="main-title">
+      spli
+      tter
+    </h1>
+    <main class="flex">
+      <div class="tip-displayer displayers flex">
+        <div class="division">
+          <p class="label"> <span class="x2">B</span>ill</p>
+          <input
+            type="number"
+            id="bill-value"
+            min="0" max="1000000"
+            required
+            placeholder="0"
+            splitter='billValue'
+          />
+        </div>
+        <div class="tips division">
+          <p class="label"><span class="x2">S</span>elect tip %</p>
+          <div class="grid">
+              <button value='5' class="tip">5%</button>
+              <button value='10' class="tip">10%</button>
+              <button value='15' class="tip">15%</button>
+              <button value='20' class="tip">20%</button>
+              <button value='25' class="tip">25%</button>
+              <input
+                type="number"
+                class="costum tip"
+                min="0"
+                max='100'
+                placeholder="Costum"
+              />
+          </div>
+        </div>
+        <div class="division">
+          <p class="label"><span class="x2">N</span>umber of People</p>
+          <input
+            type="number"
+            id="number-of-people"
+            min="1"
+            max="30"
+            required
+            placeholder="0"
+            splitter='numberOfPeople'
+          />
+        </div>
+      </div>
+
+
+      <div class="total-displayer flex displayers">
+
+          <div class="total flex">
+              <div class="box-label">
+                <p class="total-label">Tip Amount</p>
+                <span class="label">/ person</span>
+              </div>
+              <h2 splitter='tipAmount' class='output'>
+                $0.00
+              </h2>
+          </div>
+  
+          <div class="total flex">
+              <div class="box-label">
+                <p class="total-label">Total</p>
+                <span class="label">/ person</span>
+              </div>
+              <h2 splitter='total' class='output'>
+                $0.00
+              </h2>
+          </div>
+
+          <a splitter='calc' class='btn calc' >CALC</a>
+          <a splitter='reset' class='btn' >RESET</a>
+
+      </div>
+    </main>
+  </section>
+
+  <footer>
+    <p>
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Front-end Mentor</a>.
+    </p>
+    <p>
+      Coded by <a href="https://instagram.com/ton.almeida01/" target="_blank">TonAlmeida&copy;</a>.
+    </p>
+  </footer>
+</body>
+
+</html>

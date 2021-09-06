@@ -47,7 +47,7 @@
 <br><br><br>
 
 
-<a id="deploy" href="https://tonalmeida.github.io/Tip-calculator-app/">test here</a>
+<h3 align="center"><a id="deploy" href="https://tonalmeida.github.io/Tip-calculator-app/">test here</a><h3>
 <div align="center">
 
   <div align="center">

@@ -79,18 +79,4 @@ There is no prerequisites
 
   <br><br><br>
 <h3 id="author">👨🏻‍💻 Author<h3>
-
-<h1  align="center">
-
-<img
-
-alt="author"
-
-title="#NextLevelWeek"
-
-src="./assets/arquivo.ext"
-
-/>
-
-</h1>
-<p></p>
+<p>Hello, my name is Elton, always worked as a Design and I found out my truly vocation on the programming. I love finances, minimalism, sustainability and tecknology.</p>

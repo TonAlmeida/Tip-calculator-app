@@ -4,7 +4,7 @@
 
   
 
-<p align="center"><a  href="#features">Features</a>|<a href="#deploy">Deploy</a>|<a  href="#prerequisites">Prerequisites</a>|<a  href="#technologies">Technologies</a>|<a  href="#author">Autor</a></p>
+<p align="center"><a  href="#features">Features</a> <a href="#deploy">Deploy</a> <a  href="#prerequisites">Prerequisites</a> <a  href="#technologies">Technologies</a> <a  href="#author">Autor</a></p>
 
   
 

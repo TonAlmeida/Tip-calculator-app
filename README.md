@@ -31,6 +31,7 @@
 <br>
 <br>
 
+<div align="center">
 <h3 id='features'>Features</h3>
 
 - [x] Responsivity
@@ -40,7 +41,7 @@
 - [ ] Error handiling
 
 - [ ] smoot incrising values
-
+</div>
 
 
 <br><br><br>
@@ -50,6 +51,8 @@
 <div id="deploy"  align="center">
 
 <img width="500" src='https://user-images.githubusercontent.com/79487393/132255533-8e93f27b-03da-4c1c-a811-124090d441f1.png' />
+
+<img width="300" src='https://user-images.githubusercontent.com/79487393/132255698-af932cb7-45c5-49b' />
 
 <br><br><br>
 

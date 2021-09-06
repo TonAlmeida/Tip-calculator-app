@@ -1,6 +1,6 @@
 <h1 align="center"> Frontend Mentor | Tip calculator app<h1>
 
-<h2 aligh="center">this is a simple divider that includes a tip for restaurant bills and the like.<h2>
+<h2 aligh="center">this is a simple divider that includes a tip for restaurant bills and the like<h2>
 
   
 

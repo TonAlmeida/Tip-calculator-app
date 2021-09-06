@@ -47,8 +47,8 @@
 <br><br><br>
 
 
-
-<div id="deploy"  align="center">
+<a id="deploy" href="https://tonalmeida.github.io/Tip-calculator-app/">test here</a>
+<div align="center">
 
   <div align="center">
   <img width="500" src='https://user-images.githubusercontent.com/79487393/132255533-8e93f27b-03da-4c1c-a811-124090d441f1.png' />

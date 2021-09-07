@@ -60,6 +60,6 @@
 </div>
 
 <div style="margin:80px auto;">
-<h3 id="author">👨🏻‍💻 Author<h3>
-<p>Hello, my name is Elton, always worked as a Design and I found out my truly vocation on the programming. I love finances, minimalism, sustainability and tecknology.</p>
+<h3  id="author">👨🏻‍💻 Author<h3>
+<p style="font-size: 12px;" >Hello, my name is Elton, always worked as a Design and I found out my truly vocation on the programming. I love finances, minimalism, sustainability and tecknology. 👉 <a href="https://github.com/TonAlmeida">follow-me</a></p>
 </div>

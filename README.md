@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/79487393/132411441-8f62202f-d293-4374-a074-1a32be743368.png">
+  <img style="border-radius:20px" src="https://user-images.githubusercontent.com/79487393/132411441-8f62202f-d293-4374-a074-1a32be743368.png">
 </div>
 
 <h1 align="center">Frontend Mentor | Tip calculator app</h1>

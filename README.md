@@ -9,7 +9,7 @@
 
   
 
-<p style="margin-bottom:50px;" align="center"><a  href="#features">Features</a> <a href="#deploy">Deploy</a> <a  href="#prerequisites">Prerequisites</a> <a  href="#technologies">Technologies</a> <a  href="#author">Autor</a></p>
+<p style="margin-bottom:50px;" align="center"><a  href="#features">Features</a> <a href="#demonstration">Deploy</a> <a  href="#prerequisites">Prerequisites</a> <a  href="#technologies">Technologies</a> <a  href="#author">Autor</a></p>
 
 <div align="left">
 <h3 id='features'>Features</h3>
@@ -35,7 +35,7 @@
   <img width="300" src='https://user-images.githubusercontent.com/79487393/132255985-b745036d-0550-4fc2-a402-e38568e8fe92.png'/>
   </div>
 
-<h3 align="center"><a id="deploy" href="https://tonalmeida.github.io/Tip-calculator-app/">you can test here</a><h3>
+<h3 align="center"><a id="demonstration" href="https://tonalmeida.github.io/Tip-calculator-app/">you can test here</a><h3>
 
 </div>
 

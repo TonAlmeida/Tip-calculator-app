@@ -48,7 +48,7 @@
 </div>
 
 
-<div style="margin: 50px 0">
+<div style="margin: 100px 0">
   <h3 id="technologies">🛠 Technologies<h3>
 
 -JavaScript

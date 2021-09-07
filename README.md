@@ -5,20 +5,11 @@
 
   
 
-<p align="center"><a  href="#features">Features</a> <a href="#deploy">Deploy</a> <a  href="#prerequisites">Prerequisites</a> <a  href="#technologies">Technologies</a> <a  href="#author">Autor</a></p>
+<h4 id='status'  align="center">🚧 Tip calculator app 🚀 in construction... 🚧</h4>
 
   
 
-<h4 id='status'  align="center">
-
-🚧 Tip calculator app 🚀 in construction... 🚧
-
-
-</h4>
-
-<br>
-<br>
-<br>
+<p style="margin-bottom:50px;" align="center"><a  href="#features">Features</a> <a href="#deploy">Deploy</a> <a  href="#prerequisites">Prerequisites</a> <a  href="#technologies">Technologies</a> <a  href="#author">Autor</a></p>
 
 <div align="left">
 <h3 id='features'>Features</h3>

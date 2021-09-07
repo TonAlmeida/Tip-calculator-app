@@ -9,7 +9,7 @@
 
   
 
-<p style="margin-bottom:50px;" align="center"><a  href="#features">Features</a> <a href="#demonstration">Deploy</a> <a  href="#prerequisites">Prerequisites</a> <a  href="#technologies">Technologies</a> <a  href="#author">Autor</a></p>
+<p style="margin-bottom:50px;" align="center"><a  href="#features"> Features </a> <a href="#demonstration"> demonstration </a> <a  href="#prerequisites"> Prerequisites </a> <a  href="#technologies"> Technologies </a> <a  href="#author"> Autor </a></p>
 
 <div align="left">
 <h3 id='features'>Features</h3>

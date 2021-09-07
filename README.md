@@ -1,3 +1,6 @@
+
+<img align="center" src="https://user-images.githubusercontent.com/79487393/132411441-8f62202f-d293-4374-a074-1a32be743368.png">
+
 <h1 align="center">Frontend Mentor | Tip calculator app</h1>
 
 <h2 align="center">this is a simple divider that includes a tip for restaurant bills and the like</h2>

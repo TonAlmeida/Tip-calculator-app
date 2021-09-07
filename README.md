@@ -48,13 +48,15 @@
 </div>
 
 
-<h3 id="technologies">🛠 Technologies<h3>
+<div style="margin: 50px 0">
+  <h3 id="technologies">🛠 Technologies<h3>
 
 -JavaScript
 
 -Css
 
 -HTML
+</div>
 
 <div style="margin:80px auto;">
 <h3 id="author">👨🏻‍💻 Author<h3>

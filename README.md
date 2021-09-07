@@ -24,7 +24,7 @@
 </div>
 
 
-<div align="center" style="margin:50px auto;">
+<div id="demonstration"  align="center" style="margin:50px auto;">
   <h3> web verson </h3>
   <div>
   <img width="500" src='https://user-images.githubusercontent.com/79487393/132255533-8e93f27b-03da-4c1c-a811-124090d441f1.png' />
@@ -35,7 +35,7 @@
   <img width="300" src='https://user-images.githubusercontent.com/79487393/132255985-b745036d-0550-4fc2-a402-e38568e8fe92.png'/>
   </div>
 
-<h3 align="center"><a id="demonstration" href="https://tonalmeida.github.io/Tip-calculator-app/">you can test here</a><h3>
+<h3 align="center"> <a href="https://tonalmeida.github.io/Tip-calculator-app/">you can test here</a><h3>
 
 </div>
 

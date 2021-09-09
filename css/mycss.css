@@ -132,15 +132,17 @@ input:hover{
     font-size: 1.3em;
 }
 .tip:hover,
+.tip:focus,
 .selected{
     background:hsl(172, 67%, 45%);
     color: #222;
+    border: none;   
 }
 .costum{
     border: none;
     margin-top: 0;
 
-    background: hsl(189, 41%, 97%);
+    background: hsl(189, 41%, 97%) !important;
     color:hsl(183, 100%, 15%);
     height: 38px;
 }
@@ -187,8 +189,10 @@ input:hover{
 
     border-radius: 5px;
     margin: 10px;
+    cursor: pointer;
 }
-.btn:hover{
+.btn:hover,
+.btn:focus      {
     background: hsl(0, 97%, 47%);
     color:hsl(185, 41%, 84%);
 }
@@ -196,7 +200,8 @@ input:hover{
     color: hsl(183, 100%, 15%);
     background-color:hsl(183, 95%, 22%);
 }
-.calc:hover{
+.calc:hover,
+.calc:focus             {
     background: hsl(172, 67%, 45%);
     color:hsl(183, 100%, 15%);
 }

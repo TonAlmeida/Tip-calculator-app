@@ -16,7 +16,7 @@ function setTotal(total) {
                 .innerText = `$${total.toFixed(2)}`
 }
 
-function toggleSelected() {
+function toggleSelected() {style="margin:100px auto;"
     clearTip()
     this.classList.toggle('selected')
 }
@@ -51,10 +51,15 @@ function calc() {
     }catch{
            alert('message')
        }
-}
-
-document.querySelector('[splitter=calc]').addEventListener('click', calc)
-
-document.querySelector('[splitter=reset]').addEventListener('click', e=>{
-    window.location.reload()
-})
+};
+(function addSomeListeners(arrEvents) {
+    arrEvents.forEach(ev => {
+        document.querySelector('[splitter=reset]')
+            .addEventListener(ev, e => document.location.reload())
+        document.querySelector('[splitter=calc]')
+            .addEventListener(ev, calc)
+    })
+})([
+    'click',
+    'keyup'
+]);

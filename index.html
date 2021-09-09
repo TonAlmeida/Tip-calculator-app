@@ -27,6 +27,7 @@
         <div class="division">
           <p class="label"> <span class="x2">B</span>ill</p>
           <input
+            tabindex="1"
             type="number"
             id="bill-value"
             min="0" max="1000000"
@@ -38,12 +39,13 @@
         <div class="tips division">
           <p class="label"><span class="x2">S</span>elect tip %</p>
           <div class="grid">
-              <button value='5' class="tip">5%</button>
-              <button value='10' class="tip">10%</button>
-              <button value='15' class="tip">15%</button>
-              <button value='20' class="tip">20%</button>
-              <button value='25' class="tip">25%</button>
+              <button tabindex="2" value='5' class="tip">5%</button>
+              <button tabindex="3" value='10' class="tip">10%</button>
+              <button tabindex="4" value='15' class="tip">15%</button>
+              <button tabindex="5" value='20' class="tip">20%</button>
+              <button tabindex="6" value='25' class="tip">25%</button>
               <input
+                tabindex="7"
                 type="number"
                 class="costum tip"
                 min="0"
@@ -55,6 +57,7 @@
         <div class="division">
           <p class="label"><span class="x2">N</span>umber of People</p>
           <input
+            tabindex="8"
             type="number"
             id="number-of-people"
             min="1"
@@ -74,7 +77,7 @@
                 <p class="total-label">Tip Amount</p>
                 <span class="label">/ person</span>
               </div>
-              <h2 splitter='tipAmount' class='output'>
+              <h2 tabindex="9" splitter='tipAmount' class='output'>
                 $0.00
               </h2>
           </div>
@@ -84,13 +87,13 @@
                 <p class="total-label">Total</p>
                 <span class="label">/ person</span>
               </div>
-              <h2 splitter='total' class='output'>
+              <h2 tabindex="10" splitter='total' class='output'>
                 $0.00
               </h2>
           </div>
 
-          <a splitter='calc' class='btn calc' >CALC</a>
-          <a splitter='reset' class='btn' >RESET</a>
+          <a tabindex="11" splitter='calc' class='btn calc' >CALC</a>
+          <a tabindex="12" splitter='reset' class='btn' >RESET</a>
 
       </div>
     </main>

@@ -9,10 +9,11 @@
 
   
 
-<p style="margin-bottom:50px;" align="center"><a href="#features"> Features |</a><a href="#demonstration"> demonstration |</a><a href="#technologies">  Technologies |</a><a href="#author"> Autor </a></p>
+<p style="margin-top:100px;" align="center"><a href="#features"> Features |</a><a href="#demonstration"> demonstration |</a><a href="#technologies">  Technologies |</a><a href="#author"> Autor </a></p>
 
-<p style="margin: 50px;">I added a new "calc" button so I can control when the calculation happens.</p>
-<div align="left">
+
+<div style="margin: 100px;" align="left">
+<p>I added a new "calc" button so I can control when the calculation happens.</p>
 <h3 id='features'>Features</h3>
 
 - [x] Responsivity
